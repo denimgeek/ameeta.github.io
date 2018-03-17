@@ -139,7 +139,7 @@ function closeNav() {
    
    <div id="p3">
    <img src="image/1499348739_calendar.png"><br>
-   <h4>Long Time Course</h4>
+   <h4>Long Time Courses</h4>
    </div>
    <br><br><br><br><br><br><br><br><br><br>
    <center>
